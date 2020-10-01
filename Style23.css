@@ -1,0 +1,41 @@
+﻿h1 {
+    color: darksalmon;
+    font-style: oblique;
+}
+
+h2 {
+    color: goldenrod;
+    font-style: italic;
+}
+
+h3 {
+    color: black;
+    font-style: inherit;
+}
+
+strong {
+    color: darkviolet;
+    font-style: italic;
+}
+
+}
+.* {
+    margin: 4px;
+    margin: left;
+    padding: bottom;
+    text-align: left;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.2;
+    background: #faebeb;
+}
+dg
+header {
+  
+    padding: 1rem;
+    text-align: center;
+}
+
+

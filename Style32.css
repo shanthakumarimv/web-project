@@ -1,0 +1,110 @@
+﻿dy {
+    font-family: "Trebucchet MS", "Lucida Grande", Tahoma, sans-serif;
+}
+
+ul li {
+    list-style: none;
+    display: inline;
+    padding: 1em;
+    line-height: 2em;
+}
+
+a {
+    color: #4d76ff;
+}
+
+#mainMenu {
+    background-color: #000d33;
+    text-align: centre;
+    padding-right: 10%;
+}
+
+header > h1 {
+    background: url(images/header-background.png) repeat;
+    text-align: left;
+    padding-left: 10%;
+}
+
+#secondaryMenu {
+    background-color: #e6ecff;
+    text-align: left;
+    padding-left: 10%;
+}
+
+
+
+#mainContact, footer {
+    margin: auto;
+    width: 691px;
+    position: center;
+}
+
+    #mainContact section {
+        border: .05em solid;
+        margin-top: 2%;
+        margin-bottom: 2%;
+    }
+
+div img {
+    margin: .5em 0 .5em 0;
+    padding: .5em;
+    border: .05em solid;
+}
+
+#mainContact div {
+    margin: auto;
+    align: center;
+}
+
+section h3 {
+    background: url(images/header-background.png) repeat;
+    text-align: left;
+    padding: 1%;
+    color: #ffffff;
+}
+
+section p {
+    padding: 1%;
+    font-family: Georgia, Cambria, "Times New Roman", serif;
+}
+
+.actions {
+    background-color: #000d33;
+}
+
+.actionEdit {
+    background: url(images/edit.png) no-repeat 0 3px;
+    background-color: #e6ecff;
+    text-align: center;
+    padding: .05% 2%;
+    border-radius: 4px;
+}
+
+.actionFlag {
+    background: url(images/flag.png) no-repeat 0 3px;
+    background-color: #e6ecff;
+    text-align: center;
+    padding: .05% 2%;
+    border-radius: 4px;
+}
+
+a[href^="mailto"] {
+    background: url(images/email.png) no-repeat 0 3px;
+    padding-left: 1em;
+}
+
+a[href^="tel"] {
+    background: url(images/call.png) no-repeat 0 3px;
+    padding-left: 1em;
+}
+
+footer {
+    background-color: #000d33;
+    color: #ffffff;
+    text-align: left;
+    padding: 1%;
+}
+
+#copyright {
+    font-size: small;
+}

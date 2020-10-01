@@ -1,0 +1,37 @@
+﻿h1 {
+    color: red;
+    font-style: inherit;
+}
+
+h2 {
+    color: purple;
+    font-style:italic;
+   }
+h3 {
+    color: forestgreen;
+    font-style: italic;
+}
+h4{
+    color:darkorange;
+  
+  }
+
+* {
+    margin: 7px;
+    margin: top;
+    padding: top;
+    background: #f4f4f4;
+    text-align:left;
+    }
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+   
+      }
+
+header {
+    background: #f4f4f4;
+    padding: 1rem;
+    text-align: center;
+}
